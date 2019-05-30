@@ -1,0 +1,16 @@
+.card-table {
+    height: 433px;
+    width: 500px;
+    padding-left: 100px;
+}
+.playing-field {
+    height: 300px;
+    width: 500px;
+    background-color: rgb(92, 153, 72) 
+}
+#btn1 {
+    margin-left: 40px; 
+}
+#btn2 {
+    margin-left: 260px;
+}
